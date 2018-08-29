@@ -1,0 +1,9 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "大仏くん.moc3",
+		"Textures": [
+			"大仏くん.2048/texture_00.png"
+		]
+	}
+}

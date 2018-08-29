@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "大仏くん",
+	"model": "大仏くん.moc",
+	"textures": [
+		"大仏くん.2048/texture_00.png"
+	]
+}
